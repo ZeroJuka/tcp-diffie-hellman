@@ -1,8 +1,13 @@
 #TRABALHO DE N1 DE SEGURANÇA DA INFORMAÇÃO
+
 [João Vitor Antunes](https://github.com/ZeroJuka)
+
 [Davi Teramoto](https://github.com/daviteramoto)
+
 [Gustavo Henrique Portari](https://github.com/Gportari)
+
 [Leonardo de Carlos](https://github.com/LeooDevv)
+
 
 # TCP + Cifra de Cesar + Diffie-Hellman (didático)
 
