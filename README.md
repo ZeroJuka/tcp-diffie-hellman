@@ -7,7 +7,7 @@ Participantes
 -[Leonardo de Carlos](https://github.com/LeooDevv)
 
 
-# TCP + Cifra de Cesar + Diffie-Hellman (didático)
+# TCP + Cifra de Cesar + Diffie-Hellman
 
 Projeto simples em Python que demonstra:
 - Comunicação TCP cliente/servidor.
