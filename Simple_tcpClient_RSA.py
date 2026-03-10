@@ -8,7 +8,7 @@ from encryption.diffie_hellman import (
 )
 from encryption.rsa import generate_keypair, encrypt_rsa, decrypt_rsa
 
-serverName = "192.168.18.4"
+serverName = "10.1.70.17"
 serverPort = 1300
 clientSocket = socket(AF_INET, SOCK_STREAM)
 

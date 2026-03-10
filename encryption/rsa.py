@@ -47,6 +47,7 @@ def encrypt_rsa(public_key, message: str) -> str:
         
     # c = m^e mod n
     cipher_int = pow(message_int, e, n)
+    print(f'==VALOR ENCRIPTADO: {hex(cipher_int)}==')
     return hex(cipher_int)
 
 def decrypt_rsa(private_key, ciphertext_hex: str) -> str:
